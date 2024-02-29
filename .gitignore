@@ -2,3 +2,5 @@
 /colabdata
 /models
 /catboost_info
+/plots
+main 1.ipynb
