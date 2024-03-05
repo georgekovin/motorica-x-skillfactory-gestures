@@ -1,6 +1,6 @@
 /data
-/colabdata
 /models
 /catboost_info
 /plots
+/temp
 main 1.ipynb
